@@ -4,8 +4,8 @@ from core.vector_store import get_vector_store
 from core.conversational_chain import response_from_user_input
 
 def main():
-    st.set_page_config("PDF Analysis")
-    st.title("PDF Analysis with Gemini")
+    st.set_page_config("Chat PDF")
+    st.title("Chat PDF")
 
     if 'message' not in st.session_state:
         st.session_state.message = []
