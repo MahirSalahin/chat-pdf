@@ -1,5 +1,5 @@
 ---
-title: Random Api
+title: Chat PDF
 emoji: 📋
 colorFrom: purple
 colorTo: green
@@ -9,8 +9,9 @@ app_file: app.py
 pinned: false
 ---
 
-# **PDF Analysis with Gemini**
+# **Chat PDF**
 This is a RAG(Retrieval Augmented Generation) project that allows users to upload PDF files, extract text from them, and then ask questions about the content of the PDFs. The application uses the Gemini model from Google Generative AI to generate responses to user questions.
+Check this out here: https://salahin-pdf-analysis.hf.space/
 
 
 ## **Features**
