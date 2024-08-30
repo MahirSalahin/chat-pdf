@@ -46,7 +46,7 @@ To run the application locally, follow these steps:
 
 1. Clone the repository using git clone.
 ```
-git clone https://huggingface.co/spaces/Salahin/Pdf_Analysis
+https://github.com/MahirSalahin/Chat-PDF.git
 ```
 2. Install the required libraries using 
 ```
